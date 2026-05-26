@@ -28,12 +28,9 @@ I am a 4th-year Full Stack Engineering student with a strong focus on modern sof
 
 My main interests lie in **web development**, **microservices architecture**, and **AI-powered applications**, where I enjoy combining software engineering principles with practical, real-world problem solving.
 
-I have hands-on experience working with technologies such as **Java Spring Boot**, **Angular**, and **Docker**, which I use to build robust, maintainable, and efficient applications.
-
 I am particularly passionate about designing scalable backend systems, developing responsive and user-friendly interfaces, and exploring how AI can be integrated into everyday software solutions.
 
 Overall, I enjoy turning ideas into functional products and continuously improving my skills through projects and learning new technologies.
-
 
  🎓 Full Stack Engineering student  
  💡 Interested in AI, backend systems, and modern web technologies  
