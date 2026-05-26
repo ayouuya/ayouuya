@@ -1,3 +1,13 @@
+#👋 Aboute Me
+I am currently a 4th-year engineering student at Euromed University of Fez (EIDIA), pursuing a degree in Full Stack & Multimedia Engineering (2022–2026). I’m passionate about building modern, scalable, and efficient web applications that combine solid engineering principles with real-world impact.
+
+I enjoy turning complex problems into simple, functional solutions. My main interests revolve around web development, microservices architecture, and AI-powered systems. I work mainly with technologies like Spring Boot, Angular, and Docker, and I’m always exploring new tools and ideas to improve how applications are built.
+
+Beyond coding, I’m also passionate about learning continuously, sharing knowledge, and contributing to meaningful projects that help others grow.
+
+🔭 Currently: Looking for a PFA internship in Software Engineering  
+🎓 Full Stack Engineering student  
+💡 Interested in AI, backend systems, and modern web technologies
 # 📁 Featured Projects
 
 | Project | Description | Tech Stack & Features | Links |
@@ -14,20 +24,11 @@
   - Built an innovative solution under strict time constraints, focusing on impact, usability, and technical execution.
 # 📜 Certifications
 
-- 📜 **[CERTIFICATION NAME]** — *[ISSUER]* | *[DATE]*
-- 📜 **[CERTIFICATION NAME]** — *[ISSUER]* | *[DATE]*
+- 🎨 **UI/UX Design Specialization**  
+  *California Institute of the Arts* — May 2025  
+  Training focused on user experience design principles, wireframing, prototyping, and usability testing to build intuitive and engaging digital interfaces.
 
----
 
-# 👥 Volunteer & Leadership
-
-- 👥 **[ROLE]** — **[ORGANIZATION / CLUB]**
-  - Mentoring, workshops, community events, or leadership activities.
-
-- 🤝 **[VOLUNTEER ROLE]** — **[EVENT / INITIATIVE]**
-  - Contributions and responsibilities.
-
----
 
 # 🗣️ Languages
 
@@ -42,7 +43,6 @@
 - 🤖 Artificial Intelligence
 - 💻 Coding
 - 🎮 Gaming
-- 📚 Reading
 - ✈️ Travel
 - 🚴 Cycling
 
@@ -51,16 +51,16 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayouuya&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayouuya&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayouuya&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=tokyonight&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayouuya&theme=tokyonight&hide_border=true" width="95%" />
 </p>
 
 ---
@@ -68,19 +68,14 @@
 # 🌐 Contact
 
 <p align="center">
-  <a href="[LINKEDIN_URL]">
+  <a href="https://www.linkedin.com/in/aya-et-touil-65b8272b0?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/[YOUR_USERNAME]">
+  <a href="https://github.com/ayouuya">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <a href="[TWITTER_URL]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-
-  <a href="mailto:[EMAIL]">
+  <a href="ayaettouil4@gmail.com">
     <img src="https://img.shields.io/badge/Email-00F2FE?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
