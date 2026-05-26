@@ -9,7 +9,7 @@
 | 🏙️ **medina_appV2** | TypeScript-based application for digital urban/medina experience. | **Tech:** TypeScript<br>**Feature:** Smart city / digital platform concept | [Repo 📂](https://github.com/ayouuya/medina_appV2) |
 ---
 # 🏆 Hackathon
--  **Ainnovathon Hackathon – 1st Place (Apr 2025)**  
+-  **Ainnovathon Hackathon – 4st Place (Apr 2025)**  
   - Won / Participated in the *Ainnovathon*, a competitive hackathon organized with **Tamwilcom** and **Euromed University of Fez** (22–23 April 2025).  
   - Built an innovative solution under strict time constraints, focusing on impact, usability, and technical execution.
 # 📜 Certifications
