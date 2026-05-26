@@ -1,198 +1,287 @@
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Full+Stack+%26+AI+Engineering+Student;Java%2C+Angular+%26+Docker;Building+the+Future+with+AI;Seeking+a+Software+Engineering+PFA+Internship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=[YOUR+ROLE+1];[YOUR+ROLE+2];[YOUR+MISSION+STATEMENT]" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-[YOUR_STATUS_e.g._Open_to_Opportunities]-00F2FE?style=for-the-badge&logoColor=white" alt="Status Badge" />
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+<p align="center">
+  <a href="[YOUR_LINKEDIN_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:[YOUR_EMAIL]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-[YOUR_EMAIL]-00F2FE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="[YOUR_PORTFOLIO_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=00F2FE" alt="Portfolio" />
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayaettouil&color=00f2fe&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-<br>
 ---
-<br>
 ## ⚡ About Me
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🌌 Profile</h3>
-      <p>I am a 4th-year <b>Full Stack Engineering student</b> at the <b>School of Digital Engineering and Artificial Intelligence (EIDIA)</b>, Euromed University of Fès.</p>
-      <p>I specialize in building robust web applications, microservices architectures, and AI-powered integrations (LLMs, Computer Vision). Passionate about clean code, scalable architecture, and DevOps principles.</p>
-      <p>🎯 Currently seeking a <b>Software Engineering PFA Internship</b>.</p>
-    </td>
-    <td width="45%" valign="top">
-      <h3>🚀 Quick Facts</h3>
-      <ul>
-        <li>🎓 <b>Education:</b> Engineering Degree in Full Stack & Multimedia (2022–2026)</li>
-        <li>📍 <b>Location:</b> Fès, Morocco</li>
-        <li>💼 <b>Focus Areas:</b> Java Spring Boot, Angular, React, Docker, AI APIs</li>
-        <li>✉️ <b>Email:</b> <a href="mailto:ayaettouil4@gmail.com">ayaettouil4@gmail.com</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-<br>
+I am a passionate **[YOUR ROLE / e.g. Full Stack Developer]** with a strong background in **[YOUR MAIN TECH FOCUS / e.g. Java, Angular, and AI integrations]**. Currently pursuing my education at **[YOUR UNIVERSITY]**.
+- 🎓 **Education:** [YOUR DEGREE / e.g. Engineering Degree in Full Stack] at **[YOUR UNIVERSITY]** (Class of [YEAR])
+- 🧠 **Interests:** [YOUR INTERESTS / e.g. Microservices, DevOps, Cloud Computing, Artificial Intelligence]
+- 🎯 **Current Focus:** [YOUR CURRENT FOCUS / e.g. Scalable web platforms and AI-driven web extensions]
+- 🚀 **Mission:** [YOUR MISSION / e.g. Creating elegant, developer-focused software that solves real-world problems]
 ---
-<br>
-## 🛠️ Technical Arsenal
-<table width="100%">
-  <tr>
-    <th width="20%">Category</th>
-    <th width="80%">Technologies</th>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend Frameworks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_APIs-00F2FE?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend & UI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/HTML5_&_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps & Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI & Methodologies</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Gemini_API-8E75C8?style=flat-square&logo=google-gemini&logoColor=white" />
-      <img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square" />
-      <img src="https://img.shields.io/badge/Computer_Vision-00F2FE?style=flat-square" />
-      <img src="https://img.shields.io/badge/Agile_Scrum-007ACC?style=flat-square" />
-    </td>
-  </tr>
-</table>
-<br>
+## 🛠️ Tech Stack
+### 💻 Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=[YOUR_LANGUAGES_e.g._java,js,ts,py,php,cpp]" />
+  </a>
+</p>
+### 🎨 Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=[YOUR_FRONTEND_TECH_e.g._angular,react,html,css,sass]" />
+  </a>
+</p>
+### ⚙️ Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=[YOUR_BACKEND_TECH_e.g._spring,nodejs,express,laravel]" />
+  </a>
+</p>
+### 📱 Mobile
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=[YOUR_MOBILE_TECH_e.g._flutter,reactnative,kotlin,swift]" />
+  </a>
+</p>
+### 💾 Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=[YOUR_DATABASES_e.g._mysql,postgres,mongodb,redis]" />
+  </a>
+</p>
+### 🚀 DevOps & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=[YOUR_DEVOPS_TOOLS_e.g._docker,gcp,aws,git,github,vscode,linux]" />
+  </a>
+</p>
 ---
-<br>
-## 📁 Featured Projects
-<table width="100%">
-  <tr>
-    <th width="35%">Project Name</th>
-    <th width="45%">Description</th>
-    <th width="20%">Tech Stack</th>
-  </tr>
-  <tr>
-    <td><b>🤖 AI Darija Translation</b></td>
-    <td>Chrome extension that translates web page content into Moroccan Darija in real-time.</td>
-    <td><code>JavaScript</code>, <code>Gemini API</code></td>
-  </tr>
-  <tr>
-    <td><b>🗺️ Fès El Bali – AI Tourist Assistant</b></td>
-    <td>AI assistant for tourists providing recommendations and monument recognition.</td>
-    <td><code>Node.js</code>, <code>Angular</code>, <code>AI APIs</code></td>
-  </tr>
-  <tr>
-    <td><b>⏳ Smart Queue</b></td>
-    <td>Real-time queue management web application for workflow optimization.</td>
-    <td><code>Angular</code>, <code>Express.js</code>, <code>MongoDB</code></td>
-  </tr>
-  <tr>
-    <td><b>📦 Etudeteck</b></td>
-    <td>Fully containerized student application deployed and orchestrated on GCP.</td>
-    <td><code>Docker</code>, <code>GCP</code>, <code>Angular</code></td>
-  </tr>
-  <tr>
-    <td><b>💳 JeeVoyage Connect</b></td>
-    <td>Travel booking platform with reservation and transaction management.</td>
-    <td><code>Java EE</code>, <code>JSTL</code>, <code>Servlets</code>, <code>MySQL</code></td>
-  </tr>
-  <tr>
-    <td><b>👥 FaceMe – Social Media</b></td>
-    <td>Facebook-inspired social network with posts, comments, likes, and authentication.</td>
-    <td><code>Laravel (PHP)</code>, <code>MySQL</code></td>
-  </tr>
-</table>
-<br>
----
-<br>
 ## 💼 Professional Experience
-### 🚀 **Software Development Intern** | **SOMREM** *(Jul – Aug 2025)*
-*Developed a billing system built on a microservices architecture.*
-- **Microservices & API:** Designed and built secure REST APIs using **JWT** and **Spring Security**.
-- **Frontend Development:** Developed interactive interfaces using **React**.
-- **Containerization:** Deployed containerized applications with **Docker** for localized execution.
-- *Tech Stack:* `Java`, `Spring Boot`, `React`, `MySQL`, `JWT`, `Docker`, `Git`
+### 🚀 **[ROLE / TITLE]** | **[COMPANY NAME]**
+*[DURATION / e.g. Jul – Aug 2025]*
+- Developed and maintained **[KEY COMPONENT / e.g. billing system based on microservices]**.
+- Designed and built secure REST APIs using **[TECHNOLOGY / e.g. JWT & Spring Security]**.
+- Implemented responsive user interfaces with **[FRONTEND TECH / e.g. React / Angular]**.
+- Containerized services using **[DEVOPS TECH / e.g. Docker]** for cloud deployments.
+- *Tech Stack:* `[TECH 1]`, `[TECH 2]`, `[TECH 3]`
 <br>
-### 📊 **Observation & Analysis Intern** | **KAF Accounting Firm** *(Jul 2024)*
-*Analyzed business processes and administrative workflows.*
-- Designed a digital document tracking system concept to optimize internal routing and auditing.
-<br>
+### 📊 **[ROLE / TITLE]** | **[COMPANY NAME]**
+*[DURATION / e.g. July 2024]*
+- Analyzed and mapped **[WORKFLOWS / e.g. corporate financial workflows]** to optimize speed.
+- Conceptualized a **[PROJECT TYPE / e.g. digital document tracking system]** lowering manual overhead.
+- *Tech Stack:* `[TECH 1]`, `[TECH 2]`
 ---
+## 🎓 Education
+### 🏫 **[DEGREE / PROGRAM]**
+**[UNIVERSITY / INSTITUTION NAME]** | *[DURATION / e.g. 2022 – 2026]*
+- **Core Topics:** [SUBJECT 1], [SUBJECT 2], [SUBJECT 3], [SUBJECT 4]
+- **Key Achievements:** [GPA / Honors / Awards]
 <br>
-## 📊 GitHub Analytics & Languages
-<table>
-  <tr>
-    <th width="50%">GitHub Stats</th>
-    <th width="50%">Top Languages</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ayaettouil">
-        <img src="https://github-readme-stats.vercel.app/api?username=ayaettouil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ayaettouil">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaettouil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-<br>
+### 🏫 **[HIGH SCHOOL DIPLOMA / FOCUS]**
+**[SCHOOL NAME]** | *[DURATION / e.g. 2022]*
+- **Focus:** [e.g. Physics / Mathematics / Science]
 ---
-<br>
-## 🌐 Languages & Connect
-<table>
-  <tr>
-    <th width="50%">🗣️ Languages</th>
-    <th width="50%">🌐 Connect With Me</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>🗣️ <b>Arabic:</b> Native</li>
-        <li>🗣️ <b>French:</b> Fluent</li>
-        <li>🗣️ <b>English:</b> Intermediate</li>
-        <li>🗣️ <b>Spanish:</b> A2</li>
-      </ul>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.linkedin.com/in/aya-et-touil" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <br><br>
-      <a href="mailto:ayaettouil4@gmail.com">
-        <img src="https://img.shields.io/badge/Email-ayaettouil4%40gmail.com-00F2FE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-    </td>
-  </tr>
-</table>
-<br>
+## 📁 Featured Projects
+|
+ Project Name 
+|
+ Brief Description 
+|
+ Tech Stack & Features 
+|
+ Links 
+|
+|
+:---
+|
+:---
+|
+:---
+|
+:---
+|
+|
+**
+🤖 [PROJECT NAME 1]
+**
+|
+ [Short description of what the project does and its core objective] 
+|
+<
+ul
+>
+<
+li
+>
+Tech: 
+`[TECH 1]`
+, 
+`[TECH 2]`
+</
+li
+>
+<
+li
+>
+Feature: [KEY FEATURE]
+</
+li
+>
+</
+ul
+>
+|
+[
+Demo 🔗
+](
+[DEMO_LINK]
+)
+ \| 
+[
+Repo 📂
+](
+[REPO_LINK]
+)
+|
+|
+**
+🗺️ [PROJECT NAME 2]
+**
+|
+ [Short description of what the project does and its core objective] 
+|
+<
+ul
+>
+<
+li
+>
+Tech: 
+`[TECH 1]`
+, 
+`[TECH 2]`
+</
+li
+>
+<
+li
+>
+Feature: [KEY FEATURE]
+</
+li
+>
+</
+ul
+>
+|
+[
+Demo 🔗
+](
+[DEMO_LINK]
+)
+ \| 
+[
+Repo 📂
+](
+[REPO_LINK]
+)
+|
+|
+**
+⏳ [PROJECT NAME 3]
+**
+|
+ [Short description of what the project does and its core objective] 
+|
+<
+ul
+>
+<
+li
+>
+Tech: 
+`[TECH 1]`
+, 
+`[TECH 2]`
+</
+li
+>
+<
+li
+>
+Feature: [KEY FEATURE]
+</
+li
+>
+</
+ul
+>
+|
+[
+Demo 🔗
+](
+[DEMO_LINK]
+)
+ \| 
+[
+Repo 📂
+](
+[REPO_LINK]
+)
+|
+---
+## 🏆 Hackathons & Achievements
+- **🏆 [EVENT / COMPETITION NAME]** | *[RANK / RESULT / e.g. 1st Place / Finalist]*
+  - [Describe the event and your contribution to the team's project]
+- **🎖️ [AWARD / SCHOLARSHIP NAME]** | *[ORGANIZATION / e.g. Euromed University]*
+  - [Brief description of why the award was given]
+---
+## 📜 Certifications
+- **📜 [CERTIFICATION NAME]** – *[ISSUER / e.g. Oracle / Google]* | *[DATE]*
+- **📜 [CERTIFICATION NAME]** – *[ISSUER]* | *[DATE]*
+---
+## 👥 Volunteer & Leadership
+- **👥 [LEADERSHIP / CLUB ROLE]** | **[CLUB / ASSOCIATION NAME]**
+  - [Mentored X students / Organized Y workshops / Hosted Z community events]
+- **🤝 [VOLUNTEER ROLE]** | **[EVENT / INITIATIVE NAME]**
+  - [Helped coordinate logistics / Set up infrastructure / Led communication efforts]
+---
+## 🗣️ Human Languages
+- 🗣️ **[LANGUAGE 1]** – [PROFICIENCY LEVEL / e.g. Native / Bilingual]
+- 🗣️ **[LANGUAGE 2]** – [PROFICIENCY LEVEL / e.g. Fluent / Professional]
+- 🗣️ **[LANGUAGE 3]** – [PROFICIENCY LEVEL / e.g. Intermediate / Conversational]
+---
+## 🎨 Interests
+- 🤖 **Artificial Intelligence & Machine Learning** (Prompt engineering, LLMs, NLP)
+- 🎮 **Gaming** (Strategy, RPGs, Puzzle solving)
+- 📚 **Reading** (Tech blogs, Science fiction, Personal development)
+- ✈️ **Traveling** (Exploring cultures, historical architecture)
+---
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Activity Graph" width="48%" />
+</p>
+---
+## 🌐 Contact Section
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL])
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YOUR_GITHUB_USERNAME])
+[![Twitter / X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]([YOUR_TWITTER_URL])
+[![Email](https://img.shields.io/badge/Email-[YOUR_EMAIL]-00F2FE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
+</div>
 ---
 <p align="center">
-  <sub>Designed with 💙 by Aya ET-TOUIL. Built for scalable web, microservices, and AI integrations.</sub>
+  <sub>"The best way to predict the future is to invent it." 🌌</sub>
 </p>
