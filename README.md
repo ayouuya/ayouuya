@@ -31,9 +31,9 @@ I enjoy turning complex problems into simple, functional solutions. My main inte
 
 Beyond coding, I’m also passionate about continuous learning, sharing knowledge, and contributing to meaningful projects that help others grow.
 
-- 🔭 Currently: Looking for a PFA internship in Software Engineering  
-- 🎓 Full Stack Engineering student  
-- 💡 Interested in AI, backend systems, and modern web technologies  
+
+ 🎓 Full Stack Engineering student  
+ 💡 Interested in AI, backend systems, and modern web technologies  
 
 ---
 
@@ -102,12 +102,9 @@ Beyond coding, I’m also passionate about continuous learning, sharing knowledg
 
 
 # 🗣️ Languages
-
-- 🇫🇷 **[LANGUAGE]** — [LEVEL]
-- 🇬🇧 **[LANGUAGE]** — [LEVEL]
-- 🇲🇦 **[LANGUAGE]** — [LEVEL]
-
----
+- 🇫🇷 Français — B2  
+- 🇬🇧 Anglais — B1/B2 (intermédiaire)  
+- 🇲🇦 Arabe  — langue maternelle  
 
 # 🎨 Interests
 
@@ -116,25 +113,6 @@ Beyond coding, I’m also passionate about continuous learning, sharing knowledg
 - 🎮 Gaming
 - ✈️ Travel
 - 🚴 Cycling
-
----
-
-
-
-# 🌐 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aya-et-touil-65b8272b0?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/ayouuya">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="ayaettouil4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00F2FE?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
