@@ -2,10 +2,11 @@
 
 | Project | Description | Tech Stack & Features | Links |
 |---|---|---|---|
-| 🤖 **[PROJECT NAME 1]** | Short description of the project and its objective. | **Tech:** `TECH 1`, `TECH 2`<br>**Feature:** Key feature description | [Demo 🔗](DEMO_LINK) <br> [Repo 📂](REPO_LINK) |
-| 🗺️ **[PROJECT NAME 2]** | Short description of the project and its objective. | **Tech:** `TECH 1`, `TECH 2`<br>**Feature:** Key feature description | [Demo 🔗](DEMO_LINK) <br> [Repo 📂](REPO_LINK) |
-| ⏳ **[PROJECT NAME 3]** | Short description of the project and its objective. | **Tech:** `TECH 1`, `TECH 2`<br>**Feature:** Key feature description | [Demo 🔗](DEMO_LINK) <br> [Repo 📂](REPO_LINK) |
-
+| ⚡ **AIEtensionChrom** | Chrome extension / JS-based project focused on AI-related features and experimentation. | **Tech:** JavaScript<br>**Focus:** AI tooling, browser extension | [Repo 📂](https://github.com/ayouuya/AIEtensionChrom) |
+| 🍃 **leaves-Management-System** | Full MERN web application for managing leave requests and employee workflows. | **Tech:** MongoDB, Express, React, Node.js<br>**Feature:** Employee leave management system | [Repo 📂](https://github.com/zinebni/leaves-Management-System) |
+| 🧠 **rag-project** | Retrieval-Augmented Generation (RAG) experimental project exploring AI concepts. | **Tech:** HTML<br>**Feature:** AI knowledge retrieval prototype | [Repo 📂](https://github.com/ayouuya/rag-project) |
+| ✈️ **VoyageConnectJEE** | Java EE travel booking platform with MVC architecture. | **Tech:** Java, Jakarta EE<br>**Feature:** Travel booking system (flights, hotels, tours) | [Repo 📂](https://github.com/ayouuya/VoyageConnectJEE) |
+| 🏙️ **medina_appV2** | TypeScript-based application for digital urban/medina experience. | **Tech:** TypeScript<br>**Feature:** Smart city / digital platform concept | [Repo 📂](https://github.com/ayouuya/medina_appV2) |
 ---
 
 # 🏆 Hackathons & Achievements
