@@ -1,9 +1,4 @@
-<img width="1024" height="1024" alt="banner" src="https://github.com/user-attachments/assets/4df9b9e6-3787-4ff0-981a-9ab70b79eaf0" />
 
-<p align="center">
-  <img src="<img width="1024" height="1024" alt="banner" src="https://github.com/user-attachments/assets/6c7abe36-70d9-4d8a-aff1-5937848a1adb" />
-banner.png" alt="Aya ET-TOUIL Banner" width="100%" />
-</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Full+Stack+%26+AI+Engineering+Student;Java%2C+Angular+%26+Docker;Building+the+Future+with+AI;Seeking+a+Software+Engineering+PFA+Internship" alt="Typing SVG" />
