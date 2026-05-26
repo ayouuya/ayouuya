@@ -1,4 +1,4 @@
-# 🌌 Aya ET-TOUIL
+
 <p align="center">
   <img src="assets/banner.png" alt="Aya ET-TOUIL Banner" width="100%" />
 </p>
@@ -10,203 +10,192 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayaettouil&color=00f2fe&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+<br>
 ---
+<br>
 ## ⚡ About Me
-I am a **4th-year Full Stack Engineering student** at the **School of Digital Engineering and Artificial Intelligence (EIDIA)**, Euromed University of Fès. I specialize in web development, microservices architectures, and AI-powered applications. 
-- 🎓 **Education:** Pursuing an Engineering Degree in Full Stack & Multimedia (Class of 2026).
-- 🧠 **Interests:** AI Integrations (LLMs, Computer Vision), Cloud Deploys, and Clean Architectures.
-- 💼 **Goal:** Currently seeking a **Software Engineering PFA Internship** to apply and expand my skills.
-- 📍 **Location:** Fès, Morocco
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🌌 Profile</h3>
+      <p>I am a 4th-year <b>Full Stack Engineering student</b> at the <b>School of Digital Engineering and Artificial Intelligence (EIDIA)</b>, Euromed University of Fès.</p>
+      <p>I specialize in building robust web applications, microservices architectures, and AI-powered integrations (LLMs, Computer Vision). Passionate about clean code, scalable architecture, and DevOps principles.</p>
+      <p>🎯 Currently seeking a <b>Software Engineering PFA Internship</b>.</p>
+    </td>
+    <td width="45%" valign="top">
+      <h3>🚀 Quick Facts</h3>
+      <ul>
+        <li>🎓 <b>Education:</b> Engineering Degree in Full Stack & Multimedia (2022–2026)</li>
+        <li>📍 <b>Location:</b> Fès, Morocco</li>
+        <li>💼 <b>Focus Areas:</b> Java Spring Boot, Angular, React, Docker, AI APIs</li>
+        <li>✉️ <b>Email:</b> <a href="mailto:ayaettouil4@gmail.com">ayaettouil4@gmail.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<br>
 ---
+<br>
 ## 🛠️ Technical Arsenal
-<div align="center">
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-### ⚙️ Backend Frameworks & Architectures
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-00F2FE?style=for-the-badge)
-### 🎨 Frontend & Design
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5 & CSS3](https://img.shields.io/badge/HTML5_&_CSS3-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-### 🚀 DevOps & Cloud
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git & GitHub](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-### 🤖 Artificial Intelligence
-![Gemini API](https://img.shields.io/badge/Gemini%20AI-%238E75C8.svg?style=for-the-badge&logo=google-gemini&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-%2300F2FE.svg?style=for-the-badge)
-</div>
+<table width="100%">
+  <tr>
+    <th width="20%">Category</th>
+    <th width="80%">Technologies</th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_APIs-00F2FE?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend & UI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/HTML5_&_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI & Methodologies</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Gemini_API-8E75C8?style=flat-square&logo=google-gemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Computer_Vision-00F2FE?style=flat-square" />
+      <img src="https://img.shields.io/badge/Agile_Scrum-007ACC?style=flat-square" />
+    </td>
+  </tr>
+</table>
+<br>
 ---
+<br>
 ## 📁 Featured Projects
-A selection of academic and personal projects demonstrating my journey:
-|
- Project 
-|
- Description 
-|
- Tech Stack 
-|
- Link 
-|
-|
-:---
-|
-:---
-|
-:---
-|
-:---
-|
-|
-**
-🤖 AI Darija Translation
-**
-|
- Chrome extension that translates web pages into Moroccan Darija using AI in real-time. 
-|
-`JavaScript`
-, 
-`Gemini API`
-|
-[
-Repo 🔗
-](
-https://github.com/ayaettouil/darija-translation-extension
-)
-|
-|
-**
-🗺️ Fès El Bali
-**
-|
- AI tourist assistant featuring recommendations and architectural monument recognition. 
-|
-`Node.js`
-, 
-`Angular`
-, 
-`AI APIs`
-|
-[
-Repo 🔗
-](
-https://github.com/ayaettouil/fes-el-bali
-)
-|
-|
-**
-⏳ Smart Queue
-**
-|
- Real-time queue management web application for optimizing customer workflows. 
-|
-`Angular`
-, 
-`Express.js`
-, 
-`MongoDB`
-|
-[
-Repo 🔗
-](
-https://github.com/ayaettouil/smart-queue
-)
-|
-|
-**
-📦 Etudeteck
-**
-|
- Fully containerized student web application deployed and orchestrated on GCP. 
-|
-`Docker`
-, 
-`Google Cloud Platform`
-, 
-`Angular`
-|
-[
-Repo 🔗
-](
-https://github.com/ayaettouil/etudeteck
-)
-|
-|
-**
-💳 JeeVoyage Connect
-**
-|
- Complete travel booking platform with secure reservation and payment management. 
-|
-`Java EE`
-, 
-`JSTL`
-, 
-`Servlets`
-, 
-`MySQL`
-|
-[
-Repo 🔗
-](
-https://github.com/ayaettouil/jeevoyage
-)
-|
-|
-**
-👥 FaceMe
-**
-|
- Facebook-inspired social media platform featuring posts, comments, likes, and auth. 
-|
-`Laravel (PHP)`
-, 
-`MySQL`
-|
-[
-Repo 🔗
-](
-https://github.com/ayaettouil/faceme
-)
-|
+<table width="100%">
+  <tr>
+    <th width="35%">Project Name</th>
+    <th width="45%">Description</th>
+    <th width="20%">Tech Stack</th>
+  </tr>
+  <tr>
+    <td><b>🤖 AI Darija Translation</b></td>
+    <td>Chrome extension that translates web page content into Moroccan Darija in real-time.</td>
+    <td><code>JavaScript</code>, <code>Gemini API</code></td>
+  </tr>
+  <tr>
+    <td><b>🗺️ Fès El Bali – AI Tourist Assistant</b></td>
+    <td>AI assistant for tourists providing recommendations and monument recognition.</td>
+    <td><code>Node.js</code>, <code>Angular</code>, <code>AI APIs</code></td>
+  </tr>
+  <tr>
+    <td><b>⏳ Smart Queue</b></td>
+    <td>Real-time queue management web application for workflow optimization.</td>
+    <td><code>Angular</code>, <code>Express.js</code>, <code>MongoDB</code></td>
+  </tr>
+  <tr>
+    <td><b>📦 Etudeteck</b></td>
+    <td>Fully containerized student application deployed and orchestrated on GCP.</td>
+    <td><code>Docker</code>, <code>GCP</code>, <code>Angular</code></td>
+  </tr>
+  <tr>
+    <td><b>💳 JeeVoyage Connect</b></td>
+    <td>Travel booking platform with reservation and transaction management.</td>
+    <td><code>Java EE</code>, <code>JSTL</code>, <code>Servlets</code>, <code>MySQL</code></td>
+  </tr>
+  <tr>
+    <td><b>👥 FaceMe – Social Media</b></td>
+    <td>Facebook-inspired social network with posts, comments, likes, and authentication.</td>
+    <td><code>Laravel (PHP)</code>, <code>MySQL</code></td>
+  </tr>
+</table>
+<br>
 ---
+<br>
 ## 💼 Professional Experience
-### 🚀 **Software Development Intern** @ **SOMREM** *(Jul – Aug 2025)*
-> Developed a high-performance billing system powered by microservices architecture.
-- Designed and secured microservice REST APIs utilizing **JWT** and **Spring Security**.
-- Built a fluid, modern frontend using **React**.
-- Containerized services using **Docker** for seamless local and cloud deployment.
+### 🚀 **Software Development Intern** | **SOMREM** *(Jul – Aug 2025)*
+*Developed a billing system built on a microservices architecture.*
+- **Microservices & API:** Designed and built secure REST APIs using **JWT** and **Spring Security**.
+- **Frontend Development:** Developed interactive interfaces using **React**.
+- **Containerization:** Deployed containerized applications with **Docker** for localized execution.
 - *Tech Stack:* `Java`, `Spring Boot`, `React`, `MySQL`, `JWT`, `Docker`, `Git`
-### 📊 **Observation & Analysis Intern** @ **KAF Accounting Firm** *(Jul 2024)*
-> Analyzed corporate accounting workflows.
-- Evaluated business processes and conceptualized a digital document tracking system to streamline administrative actions.
+<br>
+### 📊 **Observation & Analysis Intern** | **KAF Accounting Firm** *(Jul 2024)*
+*Analyzed business processes and administrative workflows.*
+- Designed a digital document tracking system concept to optimize internal routing and auditing.
+<br>
 ---
-## 📊 GitHub Analytics
-<p align="center">
-  <a href="https://github.com/ayaettouil">
-    <img src="https://github-readme-stats.vercel.app/api?username=ayaettouil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/ayaettouil">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaettouil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-  </a>
-</p>
+<br>
+## 📊 GitHub Analytics & Languages
+<table>
+  <tr>
+    <th width="50%">GitHub Stats</th>
+    <th width="50%">Top Languages</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ayaettouil">
+        <img src="https://github-readme-stats.vercel.app/api?username=ayaettouil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ayaettouil">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaettouil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br>
 ---
-## 🌐 Connect With Me
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-et-touil)
-[![Email](https://img.shields.io/badge/Email-ayaettouil4%40gmail.com-00F2FE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaettouil4@gmail.com)
-</div>
+<br>
+## 🌐 Languages & Connect
+<table>
+  <tr>
+    <th width="50%">🗣️ Languages</th>
+    <th width="50%">🌐 Connect With Me</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>🗣️ <b>Arabic:</b> Native</li>
+        <li>🗣️ <b>French:</b> Fluent</li>
+        <li>🗣️ <b>English:</b> Intermediate</li>
+        <li>🗣️ <b>Spanish:</b> A2</li>
+      </ul>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.linkedin.com/in/aya-et-touil" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <br><br>
+      <a href="mailto:ayaettouil4@gmail.com">
+        <img src="https://img.shields.io/badge/Email-ayaettouil4%40gmail.com-00F2FE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br>
 ---
 <p align="center">
   <sub>Designed with 💙 by Aya ET-TOUIL. Built for scalable web, microservices, and AI integrations.</sub>
 </p>
-<img width="1024" height="1024" alt="banner" src="https://github.com/user-attachments/assets/2bd13312-ab27-4fef-af3d-659b1f31eaf6" />
