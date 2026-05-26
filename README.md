@@ -80,7 +80,9 @@ Beyond coding, I’m also passionate about continuous learning, sharing knowledg
 <p align="left">
   <img src="https://img.shields.io/badge/Agile-Scrum-orange?style=for-the-badge"/>
 </p>
-## 📁 Featured Projects
+---
+
+# 📁 Featured Projects
 
 | Project | Description | Tech Stack & Features | Links |
 |---|---|---|---|
