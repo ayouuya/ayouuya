@@ -18,7 +18,7 @@
 <!-- ===================== ABOUT ===================== -->
 # 👋 Hi there, I’m Aya Et Touil
 
-👨‍💻 Full Stack Engineer • 🎓 Engineering Student • 🧩 Problem Solver • 🚀 Tech Enthusiast
+👨‍💻 Full Stack Engineer • 🎓 Engineering Student • 🚀 Tech Enthusiast
 
 ---
 
