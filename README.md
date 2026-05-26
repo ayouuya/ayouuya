@@ -24,12 +24,15 @@
 
 ## 🌟 About Me
 
-I am currently a 4th-year engineering student at Euromed University of Fez (EIDIA), pursuing a degree in Full Stack & Multimedia Engineering (2022–2026).  
-I’m passionate about building modern, scalable, and efficient web applications that combine solid engineering principles with real-world impact.
+I am a 4th-year Full Stack Engineering student with a strong focus on modern software development and scalable system design.
 
-I enjoy turning complex problems into simple, functional solutions. My main interests revolve around web development, microservices architecture, and AI-powered systems. I work mainly with technologies like Spring Boot, Angular, and Docker, and I’m always exploring new tools and ideas to improve how applications are built.
+My main interests lie in **web development**, **microservices architecture**, and **AI-powered applications**, where I enjoy combining software engineering principles with practical, real-world problem solving.
 
-Beyond coding, I’m also passionate about continuous learning, sharing knowledge, and contributing to meaningful projects that help others grow.
+I have hands-on experience working with technologies such as **Java Spring Boot**, **Angular**, and **Docker**, which I use to build robust, maintainable, and efficient applications.
+
+I am particularly passionate about designing scalable backend systems, developing responsive and user-friendly interfaces, and exploring how AI can be integrated into everyday software solutions.
+
+Overall, I enjoy turning ideas into functional products and continuously improving my skills through projects and learning new technologies.
 
 
  🎓 Full Stack Engineering student  
