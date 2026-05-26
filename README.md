@@ -1,14 +1,85 @@
-#👋 Aboute Me
-I am currently a 4th-year engineering student at Euromed University of Fez (EIDIA), pursuing a degree in Full Stack & Multimedia Engineering (2022–2026). I’m passionate about building modern, scalable, and efficient web applications that combine solid engineering principles with real-world impact.
+<!-- ===================== CONTACT HEADER ===================== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/aya-et-touil-65b8272b0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aya%20Et%20Touil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/ayouuya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-FOLLOW-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:ayaettouil4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- ===================== ABOUT ===================== -->
+# 👋 Hi there, I’m Aya Et Touil
+
+👨‍💻 Full Stack Engineer • 🎓 Engineering Student • 🧩 Problem Solver • 🚀 Tech Enthusiast
+
+---
+
+## 🌟 About Me
+
+I am currently a 4th-year engineering student at Euromed University of Fez (EIDIA), pursuing a degree in Full Stack & Multimedia Engineering (2022–2026).  
+I’m passionate about building modern, scalable, and efficient web applications that combine solid engineering principles with real-world impact.
 
 I enjoy turning complex problems into simple, functional solutions. My main interests revolve around web development, microservices architecture, and AI-powered systems. I work mainly with technologies like Spring Boot, Angular, and Docker, and I’m always exploring new tools and ideas to improve how applications are built.
 
-Beyond coding, I’m also passionate about learning continuously, sharing knowledge, and contributing to meaningful projects that help others grow.
+Beyond coding, I’m also passionate about continuous learning, sharing knowledge, and contributing to meaningful projects that help others grow.
 
-🔭 Currently: Looking for a PFA internship in Software Engineering  
-🎓 Full Stack Engineering student  
-💡 Interested in AI, backend systems, and modern web technologies
-# 📁 Featured Projects
+- 🔭 Currently: Looking for a PFA internship in Software Engineering  
+- 🎓 Full Stack Engineering student  
+- 💡 Interested in AI, backend systems, and modern web technologies  
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,php,js,ts,python,sql" />
+</p>
+
+---
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express" />
+</p>
+
+---
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css" />
+</p>
+
+---
+
+### 🚀 DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+</p>
+
+---
+
+### 🤖 AI & Data
+<p align="left">
+  <img src="https://img.shields.io/badge/Gemini%20API-AI-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-Basics-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-Basics-green?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚡ Methodology
+<p align="left">
+  <img src="https://img.shields.io/badge/Agile-Scrum-orange?style=for-the-badge"/>
+</p># 📁 Featured Projects
 
 | Project | Description | Tech Stack & Features | Links |
 |---|---|---|---|
